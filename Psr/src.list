@@ -1,3 +1,4 @@
+placeholder-log.php
 Log/AbstractLogger.php
 Log/InvalidArgumentException.php
 Log/LoggerAwareInterface.php
